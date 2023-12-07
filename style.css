@@ -267,13 +267,6 @@ video {
 
 
 
-/* @media only screen and (max-width: 1450px) {
-    nav {
-        margin-left: 50px;
-    }
-} */
-
-
 @media only screen and (max-width: 1100px) {
     nav {
         display: none;
@@ -293,6 +286,4 @@ video {
         left: calc((100vw - 1400px) / 2 + 50px);
     }
 }
-
-/* animacja elementów menu */
 
